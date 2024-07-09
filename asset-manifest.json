@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/parking-meter-cute/static/css/main.e98e33dd.css",
+    "main.js": "/parking-meter-cute/static/js/main.661a7a79.js",
+    "static/js/885.40b7494d.chunk.js": "/parking-meter-cute/static/js/885.40b7494d.chunk.js",
+    "static/media/bg.png": "/parking-meter-cute/static/media/bg.019ce690730b3ad8dd15.png",
+    "static/media/card.png": "/parking-meter-cute/static/media/card.9c0b7a42dde736b5fcc9.png",
+    "static/media/robotalk3_6.wav": "/parking-meter-cute/static/media/robotalk3_6.65e970ce8aa080e09e9a.wav",
+    "static/media/robotalk7_5.wav": "/parking-meter-cute/static/media/robotalk7_5.18f1979a6c229ac01ecd.wav",
+    "static/media/pm-cr.png": "/parking-meter-cute/static/media/pm-cr.eac2a568e03d9c44523b.png",
+    "static/media/pm.png": "/parking-meter-cute/static/media/pm.6d946a6b1151b3cc4a2f.png",
+    "static/media/robotalk0_11.wav": "/parking-meter-cute/static/media/robotalk0_11.fcfc231e8ec6184f1317.wav",
+    "static/media/robotalk7_10.wav": "/parking-meter-cute/static/media/robotalk7_10.512e32aa0b2f91274208.wav",
+    "static/media/robotalk6_10.wav": "/parking-meter-cute/static/media/robotalk6_10.43c3ddf5976225309a5e.wav",
+    "index.html": "/parking-meter-cute/index.html",
+    "main.e98e33dd.css.map": "/parking-meter-cute/static/css/main.e98e33dd.css.map",
+    "main.661a7a79.js.map": "/parking-meter-cute/static/js/main.661a7a79.js.map",
+    "885.40b7494d.chunk.js.map": "/parking-meter-cute/static/js/885.40b7494d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e98e33dd.css",
+    "static/js/main.661a7a79.js"
+  ]
+}
